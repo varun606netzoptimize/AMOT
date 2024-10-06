@@ -1,0 +1,21 @@
+export const ENDPOINT = {
+  // LOGIN: 'https://amotaudiostaging.kinsta.cloud/wp-json/v1/login',
+  LOGIN: '/v1/login',
+  USER_INFO: '/v1/get_user_details/',
+  REGISTER: '/v1/create-user',
+  UPDATE_PROFILE: '/v1/update-profile',
+  CATEGORIES: '/v1/categories',
+  TRENDING: '/v1/get_trending',
+  FREE_PLAYLIST: '/v1/playlists/free',
+  AUDIO: '/v1/playlist',
+  SEARCH: '/v1/search',
+  FAVORITE_PLAYLIST: '/v1/favorited-playlist',
+  FAVORITE_TRACKS: 'v1/favorite_audios',
+  ADD_TO_FAVOURTIE: '/v1/set-favorite-audio',
+  REMOVE_FAVOURITE: '/v1/remove-favorite-audio',
+  SUBSCRIPTION_STATUS: '/v1/subscription-status',
+  PAGE_CONTENT: '/v1/get-page-content',
+  GET_NOTIFICATIONS: '/wp/v2/push_notification',
+  CHECK_NOTIFICATION_STATUS: '/v1/get_receive_notifcations?user_id=',
+  SET_NOTIFICATION_STATUS: '/v1/set_receive_notifcations'
+};

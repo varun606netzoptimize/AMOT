@@ -1,0 +1,16 @@
+export const SCREENS = {
+  SEARCH: 'Search',
+  MUSIC_PLAYER: 'MusicPlayer',
+  AUDIOS: 'Audios',
+  PLAYLISTS: 'Playlists',
+  FREE_RECORDING: 'FreeRecording',
+  REGISTER_FIRST_STEP: 'RegisterFirstStep',
+  REGISTER_SECOND_STEP: 'RegisterSecondStep',
+  LOGIN: 'Login',
+  PROFILE: 'Profile',
+  DOWNLOAD: 'Downloads',
+  FAVORITE: 'My AMOT',
+  HOME: 'Home',
+  TABS: 'TabNavigation',
+  SUB_CATEGORY: 'SubCategory',
+};

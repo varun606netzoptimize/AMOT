@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/font/Avenir Next Cyr Medium.ttf",
+      "sha1": "0c8483b3dc6a252958b36658338954150714129d"
+    },
+    {
+      "path": "assets/font/Avenir Next Cyr.ttf",
+      "sha1": "a15428daf6c7711fa849ada35a487d2b751f8a05"
+    },
+    {
+      "path": "assets/font/AvenirNextCyr-Bold.ttf",
+      "sha1": "c9a55027184e56afc9eede1c2cd21ad3c6217cbf"
+    },
+    {
+      "path": "assets/font/AvenirNextCyr-Heavy.ttf",
+      "sha1": "29d7e88d75b92e01f5a8aeb1abe007b909eaf562"
+    },
+    {
+      "path": "assets/font/AvenirNextCyr-Regular.ttf",
+      "sha1": "581bf3f11b1fd9ccc58bad25753bebe94e8a782a"
+    }
+  ]
+}
